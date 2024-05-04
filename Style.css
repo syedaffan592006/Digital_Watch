@@ -1,0 +1,14 @@
+
+
+
+.center {
+    background-image: url(./watch\ background.jpg);
+    background-size: cover;
+    font-family: Arial, sans-serif;
+     text-align: center; 
+}
+  #clock {
+    font-size: 48px;
+    color: rgb(5, 3, 3);
+    display: inline-block;
+  }  
